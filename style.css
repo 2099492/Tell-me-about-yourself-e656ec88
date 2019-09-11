@@ -1,0 +1,41 @@
+h1	{
+	color: white	
+}
+
+h2	{
+	
+	color: green
+}
+h2 {
+	font-size: xx-large;
+}
+}
+p {
+	color: green 
+}
+/* All <a> elements. */
+a {
+	font-size: xx-large;
+}
+a {
+	color: green
+}
+/* All <li> elements. */
+li {
+	color: green
+}
+li	{
+	font-size: xx-large;
+}
+body {
+	background-color: white
+}
+img	{
+	width: 200px
+}
+input	{
+	width: 300px	
+}
+input	{
+	border-radius: 5px	
+}
